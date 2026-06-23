@@ -248,6 +248,6 @@ Verify that load balancing and high availability are functioning correctly.
 - Terminating one EC2 instance manually did not cause downtime — the remaining healthy instance continued serving all traffic
 - Target group health checks updated automatically
 ![alt text](Images/image-17.png)
-![alt text](Images/image-18.png)
+![alt text](Images/image-20.png)
 ![alt text](Images/image-19.png)
 
